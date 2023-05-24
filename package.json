@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^4.7.2",
+    "@truffle/hdwallet-provider": "^2.0.13",
+    "ethereum-mnemonic-privatekey-utils": "^1.0.2",
+    "keythereum": "^1.2.0",
+    "truffle": "^5.5.24",
+    "truffle-privatekey-provider": "^1.5.0"
+  },
+  "devDependencies": {
+    "truffle-keystore-provider": "^1.0.6"
+  }
+}
